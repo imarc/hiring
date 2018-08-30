@@ -28,7 +28,7 @@ Spend around 5 hours taking this Photoshop comp as far as you can... or want. We
 4. Share your work with us – either post the finished result on the web and share a link with us; or zip up all your work and send us the files (We'd need all the assets so we can just drag your `index.html` file into a local browser and it all works.)
 
 ### Notes
-Feel free to use andy CSS framework or Javascript libraries or plugins that you see fit. We certainly don't expect you to start from absolutely nothing. If you have a favorite bootstrapping starting point, please use it.
+Feel free to use any CSS framework or Javascript libraries or plugins that you see fit. We certainly don't expect you to start from absolutely nothing. If you have a favorite bootstrapping starting point, please use it.
 
 --
 
